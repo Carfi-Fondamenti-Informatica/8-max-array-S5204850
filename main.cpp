@@ -8,6 +8,6 @@ int main(){
   for (int i=0;i<dim1;i++){
     cin>>B[i];
   }
-  cout <<massimo(B,dim1)
+  cout <<massimo(B,dim1);
   return 0;
 }
